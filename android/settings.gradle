@@ -1,0 +1,3 @@
+rootProject.name = 'ffasd_4664'
+
+include ':app'
